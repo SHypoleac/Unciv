@@ -1,3 +1,16 @@
+## 4.11.5
+
+Better multiplayer game screen
+
+Solved some problems with resigning MP games
+
+Disallow creating "multiplayer" games with only AI and spectator
+
+By SomeTroglodyte:
+- Fix Invest quest stays forever
+- Minor Scenarios UX improvements
+- Console autocompletion can display *all* possibilities
+
 ## 4.11.4
 
 Can nuke barbarians - By tuvus
