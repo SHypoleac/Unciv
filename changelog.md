@@ -1,3 +1,15 @@
+## 4.14.13
+
+SIGNIFICANT memory performance improvements for large maps
+
+"Stats from tiles" uniques work with terrain + improvement filter combos
+
+Layout for resource icons in city screen when in resistance - fixed
+
+Remove server notifications - bad user experience
+
+hexarealm: Fix Snow-Lake edges - By RobLoach
+
 ## 4.14.12
 
 Allow unit triggers to be used in unit-triggered events
